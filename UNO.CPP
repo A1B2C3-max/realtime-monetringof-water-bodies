@@ -105,4 +105,5 @@ void loop() {
 
     // --- UPDATED: Faster Update Rate ---
     delay(5000); // Read, send, and refresh data every 5 seconds
+
 }
